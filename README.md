@@ -1,16 +1,25 @@
 # cartgo
+Cartgo - Smart AI Powered E-commerce App 🚀
 
-A new Flutter project.
+Cartgo is a full-stack e-commerce mobile application built using Flutter and Node.js, featuring role-based access for users, merchants, and delivery partners. 
 
-## Getting Started
+The app includes AI-powered product recommendations, real-time order tracking, delivery management, and a seamless shopping experience with secure authentication and dynamic product filtering.
 
-This project is a starting point for a Flutter application.
+It demonstrates complete end-to-end functionality from product listing to order delivery with scalable backend architecture.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Features:
+• User, Merchant, and Delivery Boy Role System  
+• AI Chatbot for smart product search & recommendations  
+• Add to Cart & Order Placement  
+• Real-time Order Tracking System  
+• Delivery Partner Panel (Accept & Deliver Orders)  
+• Merchant Dashboard (Manage Products & Orders)  
+• Profile Management & Address Saving  
+• REST API Integration with Node.js & MongoDB  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech Stack:
+Frontend: Flutter  
+Backend: Node.js, Express.js  
+Database: MongoDB  
+State Management: Provider  
+API: REST APIs  
